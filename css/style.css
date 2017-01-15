@@ -82,11 +82,11 @@ p {
   text-align: center;
 }
 
-.featured-work-items li h2 {
+.featured-work-items li h3 {
   color: #2d3c49;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 400;
-  margin: 0 5px;
+  margin: 0 0 10px;
   text-transform: uppercase;
 }
 
