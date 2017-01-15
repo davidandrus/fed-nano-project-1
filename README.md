@@ -1,10 +1,10 @@
 # fed-nano-project-1
 Project: Build a Portfolio Site
 
-# view on Github pages
+# View on Github pages
 https://davidandrus.github.io/fed-nano-project-1/
 
-#To Run Locally:
+#Running locally:
 
 **NOTE: you must have node installed**
 
