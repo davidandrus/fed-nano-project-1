@@ -14,6 +14,6 @@ https://davidandrus.github.io/fed-nano-project-1/
 
 `npm install`
 
-`npm run start`
+`npm start`
 
 in a browser navigate to `http://localhost:8080`
