@@ -1,0 +1,22 @@
+{
+  "name": "fed-nano-project-1",
+  "version": "1.0.0",
+  "description": "Project: Build a Portfolio Site",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidandrus/fed-nano-project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidandrus/fed-nano-project-1/issues"
+  },
+  "homepage": "https://github.com/davidandrus/fed-nano-project-1#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
